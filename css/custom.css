@@ -6,3 +6,31 @@
     defined here.
 
 ***************************************************** */
+body {
+    background-color: #292a41;
+}
+section#header {
+    background-color: #39c934;
+}
+section#footer {
+    background-color: #292a41;
+    color: #fff;
+}
+ul.top-nav>li>a {
+    color: #fff;
+}
+.navbar-main {
+    background-color: #39c934;
+}
+.navbar-main li.account {
+    background-color: #222222 !important;
+}
+ul.top-nav>li.primary-action>a.btn {
+    background-color: #292a41 !important;
+}
+.navbar-main .navbar-nav>.active>a, .navbar-main .navbar-nav>.active>a:focus, .navbar-main .navbar-nav>.active>a:hover, .navbar-main .navbar-nav>.open>a, .navbar-main .navbar-nav>.open>a:focus, .navbar-main .navbar-nav>.open>a:hover, .navbar-main .navbar-nav>li>a:focus, .navbar-main .navbar-nav>li>a:hover {
+    background-color: #292a41 !important;
+}
+.domain-checker-container {
+    background: none;
+}
